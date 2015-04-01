@@ -8,7 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.printlan( "Hello World!" );
-        ====
+        System.out.println( "Hello World!" );
+        -----------------------------;
+        System.out.println("mytest");
+        
     }
 }
